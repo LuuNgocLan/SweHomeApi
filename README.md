@@ -4,6 +4,7 @@
 
 - MongoDB
 - NodeJs, Express Framework
+- Crawler: Cheerio, Promies
 
 ## Run server
 
